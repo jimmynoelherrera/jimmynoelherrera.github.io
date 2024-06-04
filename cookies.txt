@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+prdttis00001.rica.com.do	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	l1b5coozhqmwagcoh4zfnc3t
+prdttis00001.rica.com.do	TRUE	/	FALSE	1999999999	SameSite	Lax
+

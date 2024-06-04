@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:58:00	151/151	---M--	302	error ('Found')	text/html	date:Tue,%2004%20Jun%202024%2001:58:00%20GMT	https://prdttis00001.rica.com.do/aplicaciones_seguridad/pages/wmenu.aspx	C:/My%20Web%20Sites/rica10/web/images/wmenu.0.delayed	(from )
+21:58:01	157/157	---M--	302	error ('Found')	text/html	date:Tue,%2004%20Jun%202024%2001:58:00%20GMT	https://prdttis00001.rica.com.do/aplicaciones_seguridad/index.aspx	C:/My%20Web%20Sites/rica10/web/images/index.1.delayed	(from )
+21:58:01	0/-1	---M--	302	error ('')			https://prdttis00001.rica.com.do/aplicaciones_seguridad/pages/wmenu.aspx	C:/My%20Web%20Sites/rica10/web/images/wmenu.2.delayed	(from )
+21:58:01	0/-1	---M--	302	error ('')			https://prdttis00001.rica.com.do/aplicaciones_seguridad/index.aspx	C:/My%20Web%20Sites/rica10/web/images/index.3.delayed	(from )
+21:58:01	0/-1	---M--	302	error ('')			https://prdttis00001.rica.com.do/aplicaciones_seguridad/pages/wmenu.aspx	C:/My%20Web%20Sites/rica10/web/images/wmenu.4.delayed	(from )
+21:58:01	0/-1	---M--	302	error ('')			https://prdttis00001.rica.com.do/aplicaciones_seguridad/index.aspx	C:/My%20Web%20Sites/rica10/web/images/index.5.delayed	(from )
+21:58:01	0/-1	---M--	302	error ('')			https://prdttis00001.rica.com.do/aplicaciones_seguridad/pages/wmenu.aspx	C:/My%20Web%20Sites/rica10/web/images/wmenu.6.delayed	(from )

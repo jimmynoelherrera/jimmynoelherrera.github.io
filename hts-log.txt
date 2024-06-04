@@ -1,0 +1,14 @@
+HTTrack3.49-1+htsswf+htsjava launched on Mon, 03 Jun 2024 21:58:28 at https://prdttis00001.rica.com.do/aplicaciones_seguridad/pages/wmenu.aspx +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qiC2t%Pns2u1%s%uN1%I0p7DaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://prdttis00001.rica.com.do/aplicaciones_seguridad/pages/wmenu.aspx -O1 "C:\My Web Sites\rica10" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:58:39	Error: 	"Not Found" (404) at link https://prdttis00001.rica.com.do/aplicaciones_seguridad/vendor/img/Fondo_Avat/_aplicaciones.PNG (from https://prdttis00001.rica.com.do/aplicaciones_seguridad/pages/wmenu.aspx)
+21:58:39	Error: 	"Not Found" (404) at link https://prdttis00001.rica.com.do/aplicaciones_seguridad/vendor/img/Interfaz.png (from https://prdttis00001.rica.com.do/aplicaciones_seguridad/pages/wmenu.aspx)
+21:58:39	Error: 	"Not Found" (404) at link https://prdttis00001.rica.com.do/aplicaciones_seguridad/vendor/img/profiledefault.jpg (from https://prdttis00001.rica.com.do/aplicaciones_seguridad/vendor/style/check.css)
+
+HTTrack Website Copier/3.49-1 mirror complete in 13 seconds : 29 links scanned, 25 files written (3457790 bytes overall), 25 files updated [3469720 bytes received at 266901 bytes/sec]
+(3 errors, 0 warnings, 0 messages)
