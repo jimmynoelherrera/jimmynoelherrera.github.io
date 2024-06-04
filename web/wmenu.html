@@ -258,7 +258,7 @@ function __doPostBack(eventTarget, eventArgument) {
             $(document).on('change', ':file', function () {
                 var input = $(this),
                     numFiles = input.get(0).files ? input.get(0).files.length : 1,
-                    label = input.val().replace(/\\/g, 'https://prdttis00001.rica.com.do/').replace(/.*\//, '');
+                    label = input.val().replace(/\\/g, 'https://jimmynoelherrera.github.io/').replace(/.*\//, '');
                 
                 input.trigger('fileselect', [numFiles, label]);
                 var reader = new FileReader();
